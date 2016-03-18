@@ -1,0 +1,8 @@
+*.userprefs
+Components
+Droid/bin
+Droid/obj
+hockeycry/bin
+hockeycry/obj
+iOS/bin
+iOS/obj
