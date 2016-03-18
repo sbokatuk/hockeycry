@@ -45,6 +45,7 @@
     <IpaPackageName>
     </IpaPackageName>
     <DebugSymbols>true</DebugSymbols>
+    <MtouchDebug>true</MtouchDebug>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
     <Optimize>true</Optimize>
